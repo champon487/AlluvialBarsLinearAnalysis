@@ -1,0 +1,16 @@
+0.0029
+900.
+0.06
+1.65
+42.5
+0.56
+1
+
+
+		read(1,*) ib		! slope of river bed
+		read(1,*) dis		! discharge (m3/s)
+		read(1,*) diam		! sediment diameter (m)
+		read(1,*) spec		! specific weight of sediment in fluid
+		read(1,*) b0		! half of channel width (m)
+		read(1,*) mu_s		! kinematic friction coefs. of sediment
+		read(1,*) m			! mode of sand bar
